@@ -1,0 +1,24 @@
+{
+  "name": "mobius",
+  "version": "0.0.1",
+  "description": "Front-end project boilerplate at Omni",
+  "main": [
+    "./css/main.css",
+    "./js/app.js"
+  ],
+  "authors": [
+    "aaronlsilber"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+  	"html5-boilerplate": null,
+  	"jquery": null,
+  	"inuit.css": "4.5.5",
+  	"fastclick": ">= 0.6.11",
+  	"bourbon": null
+  }
+}

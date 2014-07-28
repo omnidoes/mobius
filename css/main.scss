@@ -1,0 +1,20 @@
+
+/*
+ * Compile this file to main.css
+ */
+
+@import "../bower_components/bourbon/dist/bourbon";
+
+@import "../bower_components/inuit.css/style.scss";
+
+/*
+ * Import project's SASS modules here;
+ */
+
+@import "modules/vars";
+@import "modules/mixins";
+
+@import "modules/lists";
+@import "modules/forms";
+@import "modules/blocks";
+@import "modules/layout";
